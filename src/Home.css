@@ -1,0 +1,243 @@
+#bgforhero{
+    background-image: url(Images/bg-image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#Forpyara{
+    font-size: 20px;
+    line-height: 1.7;
+    color: gray;
+}
+.Forpyara2{
+    font-size: 20px;
+    line-height: 1.7;
+    color: gray;
+
+}
+
+.btn-1{
+    border: 2px solid #F29F05;
+    box-shadow: 2px 2px 2px #F29F05;
+    /* font-size: 16px; */
+    color: white;
+    background-color: #F29F05;
+
+}
+.forchildposition1{
+    border-radius: 3px;
+}
+/* @media only screen and (min-width:320px){
+.parentposition{
+    position: relative;
+    
+}    
+.forchildposition1{
+    position: absolute;
+    left: 30%;
+    top: 85%;
+    z-index: 100;
+
+}
+.forchildpositio2{
+    position: absolute;
+    top: 30%;
+    z-index: 100;
+
+}
+} */
+/* startof how it works */
+.Forpyara3{
+    font-size: 18px;
+    color: gray;
+    line-height: 1.7;
+}
+.graytext{
+    color: gray;
+}
+/* start of best resaturant */
+.forlink{
+    text-decoration: none;
+    color: black;
+}
+.forimgborder{
+    border-radius: 10px;
+}
+.cafa-button a{
+    border: 2px solid #F29F05;
+    border-radius: 5px;
+    color: #F29F05 ;
+}
+.cafa-button a:hover{
+    
+    background-color: #F29F05;
+    color: white ;
+}
+/* startoffavrestorant */
+#favbg{
+    background-image: url(Images/bg-image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.Forpyara4{
+    font-size: 20px;
+    color: gray;
+    line-height: 1.7;
+}
+
+/* startofcounter */
+.txtcolor{
+    color: #F29F05;
+}
+.bi-star-fill{
+    color: #F29F05;
+}
+.bi-hand-thumbs-up{
+    font-size: 80px;
+    border-radius: 50%;
+    background-color: white;
+    color: #F29F05;
+}
+
+.forreviewposition{
+    position: relative;
+
+}
+.bi-hand-thumbs-up{
+    position: absolute;
+    
+
+}
+
+ @media only screen and (min-width:320px){
+    .bi-hand-thumbs-up{
+        top: 0;
+        
+    
+    }
+    
+ } 
+ 
+ @media only screen and (min-width:768px){
+    .bi-hand-thumbs-up{
+        top: 50px;
+        left: 50px;
+        
+    
+    }
+    
+ } 
+ @media only screen and (min-width:992px){
+    .bi-hand-thumbs-up{
+        top: 30px;
+        left: 30px;
+        
+    
+    }
+    
+ } 
+ .bi-arrow-left-circle,.bi-arrow-right-circle{
+    font-size: 25px;
+    color: gray;
+ }
+ .Forpyara5{
+    font-size: 25px;
+    color: gray;
+    line-height: 1.7;
+}
+.join-img {
+    position: relative;
+    border-radius: 20px;
+    /* padding-top: 80px; */
+    padding-top: 50px;
+    padding-right: 50px;
+}
+/* startofjoin our partnership */
+.join-img:before {
+    content: "";
+    position: absolute;
+    /* height: 410px; */
+    height: 200px;
+    /* width: 643px; */
+    width: 250px;
+    border: 7px solid #f29f05;
+    border-radius: 20px;
+    left: 5%;
+    top: 8%;
+    /* z-index: 100; */
+}
+
+@media  only screen and (min-width:576px){
+    .join-img:before {
+      
+        height: 350px;
+        width: 480px;
+        left: 4%;
+        top: 8%;
+       
+    }
+
+}
+@media  only screen and (min-width:768px){
+    .join-img:before {
+      
+        height: 410px;
+        width: 600px;
+        /* left: 4%; */
+        top: 7%;
+       
+    }
+
+}
+@media  only screen and (min-width:992px){
+    .join-img:before {
+      
+        height: 300px;
+        width: 400px;
+        /* left: 4%; */
+        top: 7%;
+       
+    }
+
+}
+@media  only screen and (min-width:1200px){
+    .join-img:before {
+      
+        
+        /* left: 4%;
+        top: 7%; */
+          height: 410px;
+         width: 500px;
+       
+    }
+
+}
+
+@media  only screen and (min-width:1400px){
+    .join-img:before {
+      width: 643px;
+        height: 410px;
+        
+       
+    }
+
+}
+.forjoinpartnershipbg{
+    background-color: #363636;
+}
+
+/* startofnews and events */
+.newsbutton{
+    background-color: #f29f05;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+#fornewsimg img{
+    border-radius: 15px;
+}
+#foracnchore{
+    text-decoration: none;
+    color: #F29F05;}
